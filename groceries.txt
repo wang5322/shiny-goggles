@@ -3,3 +3,6 @@ Here is my grocery list:
 - Apples
 - Bananas
 - Eggs
+- Chocolate
+- Horseradish
+
